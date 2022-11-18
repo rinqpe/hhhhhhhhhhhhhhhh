@@ -1,0 +1,5 @@
+git branch new
+git checkout new
+git add файл
+git commit -m "a"
+git push
